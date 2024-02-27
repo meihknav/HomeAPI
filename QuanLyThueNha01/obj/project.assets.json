@@ -2530,19 +2530,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vankh\\.nuget\\packages\\": {}
+    "C:\\Users\\toila\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vankh\\source\\repos\\QuanLyThueNha01\\QuanLyThueNha01\\QuanLyThueNha01.csproj",
+      "projectUniqueName": "C:\\Users\\toila\\Documents\\GitHub\\HomeAPI\\QuanLyThueNha01\\QuanLyThueNha01.csproj",
       "projectName": "QuanLyThueNha01",
-      "projectPath": "C:\\Users\\vankh\\source\\repos\\QuanLyThueNha01\\QuanLyThueNha01\\QuanLyThueNha01.csproj",
-      "packagesPath": "C:\\Users\\vankh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vankh\\source\\repos\\QuanLyThueNha01\\QuanLyThueNha01\\obj\\",
+      "projectPath": "C:\\Users\\toila\\Documents\\GitHub\\HomeAPI\\QuanLyThueNha01\\QuanLyThueNha01.csproj",
+      "packagesPath": "C:\\Users\\toila\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\toila\\Documents\\GitHub\\HomeAPI\\QuanLyThueNha01\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\vankh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\toila\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
